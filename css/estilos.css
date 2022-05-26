@@ -38,7 +38,7 @@
  .contenedor .header {
 	margin-top: 0;
 	padding: 8%;
-	background: url(/Pagina/img/header.png) ;
+	background: url(../img/header.png) ;
 	color: #fff;
 	background-repeat: no-repeat;
 	background-size: 100% auto;
@@ -344,7 +344,7 @@ button p {
 	margin-top: 0;
 	max-width: 800px;
 	padding: 8%;
-	background: url(/Pagina/img/header.png) ;
+	background: url(/../img/header.png) ;
 	color: #fff;
 	background-repeat: no-repeat;
 	background-size: 100% auto;
@@ -654,7 +654,7 @@ button p {
 	margin-top: 0;
 	max-width: 600px;
 	padding: 8%;
-	background: url(/Pagina/img/header.png) ;
+	background: url(/../img/header.png) ;
 	color: #fff;
 	background-repeat: no-repeat;
 	background-size: 100% auto;
